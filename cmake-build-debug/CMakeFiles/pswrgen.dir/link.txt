@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/pswrgen.dir/main.cpp.o  -o pswrgen 
