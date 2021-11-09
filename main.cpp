@@ -36,7 +36,7 @@ public:
             }
             outFile << endl;
         }
-        outFile.close();
+
 
         cout << "Пароли успешно сгенерированы и записаны в файл " << filename << "" << endl;
     }
