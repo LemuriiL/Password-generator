@@ -1,1 +1,1 @@
-Честно утащил для лабораторной работы с сайта https://code-live.ru/post/password-generator-cpp/#comments
+There is nothing to read. Its just a password generator. Really.
